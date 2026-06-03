@@ -7,4 +7,4 @@ This repo contains two files:
 
 The HTML can viewed here:
 
-https://htmlpreview.github.io/https://github.com/Bonder-MJ/hanze-multiomics-workshop/blob/master/hanze_multiomics_course.html
+https://htmlpreview.github.io/?https://github.com/Bonder-MJ/hanze-multiomics-workshop/blob/master/hanze_multiomics_course.html
